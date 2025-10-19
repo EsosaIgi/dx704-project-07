@@ -1,0 +1,5 @@
+Acknowledgments
+
+I did not discuss this assignment with anyone.
+I did not use any libraries or tools beyond those mentioned in the course modules.
+I did not use any generative AI tools to complete this assignment.
